@@ -199,8 +199,11 @@ border-radius: 8px;
 .mt100{
   padding-top: 30px;
 }
-.mb30{
+.mb60{
   margin-bottom: 60px;
+}
+.bold{
+  font-weight: bold;
 }
 
 @media only screen and (max-width: 600px) {

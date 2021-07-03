@@ -73,8 +73,8 @@ const Landing = () => {
             <img src={phone2} className="phone2" />
           </div>
           <div className="col s12 m6 l6">
-            <h1>What is Sevva?</h1>
-            <p className="whatissevva">
+            <h2 className="bold">What is Sevva?</h2>
+            <p className="whatissevva ">
               Sevva is an android-based application platform and website that
               provides all services to meet the needs of the community with good
               reliability and functionality. Sevva use the marketplace model
@@ -99,7 +99,7 @@ const Landing = () => {
       <div className="container center">
         <div class="row">
           <div class="col s12">
-            <h3>Our Features</h3>
+            <h3 className="bold">Our Features</h3>
           </div>
         </div>
         <div class="row">

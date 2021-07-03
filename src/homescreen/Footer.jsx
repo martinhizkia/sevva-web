@@ -18,12 +18,14 @@ const Footer = () => {
             </div>
           </div>
           <div className="col s12 m6">
-            <h2>Choose Your Best Services with our Mobile Platform</h2>
-            <p>
+            <h2 className="bold">
+              Choose Your Best Services with our Mobile Platform
+            </h2>
+            <h6>
               Download the app to choose the best and the most reliable service
               solution that suits you!
-            </p>
-            <img src={badge} className="m10"/>
+            </h6>
+            <img src={badge} className="m10" />
           </div>
         </div>
       </div>
@@ -55,7 +57,7 @@ const Footer = () => {
           <div class="row">
             <div class="col l6 s12">
               <h5 class="white-text">Sevva</h5>
-              <img src= {logo} />
+              <img src={logo} />
             </div>
             <div class="col l4 offset-l2 s12">
               <h5 class="white-text">Links</h5>

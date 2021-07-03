@@ -9,9 +9,9 @@ import hanvey from "../assets/hanvey.jpg";
 const Aboutus = () => {
   return (
     <>
-      <div className="container center mb60" id = "about">
+      <div className="container center mb60" id="about">
         <div className="row">
-          <h1>Meet Our Team</h1>
+          <h1 className="bold">Meet Our Team</h1>
         </div>
         <div className="row">
           <div className="col s12 m4">
